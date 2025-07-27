@@ -1,7 +1,3 @@
-// Sawyer Dyck
-// 101341236
-// COMP1406B
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
